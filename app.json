@@ -3,12 +3,13 @@
     "name": "heatmobile",
     "slug": "heatmobile",
     "version": "1.0.0",
+    "scheme": "heatmobile",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121214"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
